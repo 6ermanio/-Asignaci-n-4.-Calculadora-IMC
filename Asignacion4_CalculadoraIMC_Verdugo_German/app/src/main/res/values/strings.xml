@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_Verdugo_German</string>
+    <string name="peso">Peso</string>
+    <string name="estatura">Estatura</string>
+    <string name="IMC">Calcular IMC</string>
+    <string name="imc"></string>
+    <string name="range"></string>
+
+</resources>
